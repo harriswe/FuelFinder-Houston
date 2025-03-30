@@ -32,5 +32,5 @@ Inspired by my grandfather’s 40 years as a Ford testing engineer and my father
 
 ## Contact
 - Portfolio: [Wes Harrison](http://www.wesharrison.info)
-- GitHub: [your-github](#)
-- LinkedIn: [your-linkedin](#)
+- GitHub: [My GitHub Profile](https://github.com/harriswe)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wmharrison42/)
