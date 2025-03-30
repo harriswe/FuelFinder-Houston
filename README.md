@@ -15,7 +15,7 @@ When your car’s fuel drops below 10%, you need a quick way to find nearby gas 
 ## Technologies Used
 - **Python:** Pandas, Scikit-learn (K-means)
 - **Jupyter:** For code development and data processing
-- **Tableau Public:** Interactive dashboard with map and table
+- **Tableau Public:** My first exploration using Tableau.
 
 ## Results
 - **Tableau Hub and Spoke + Clusters:** [Haversine Display](https://public.tableau.com/views/NearestStations-HaversineDistance/Lines?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [Gas Station Clusters](https://public.tableau.com/views/Visuals_17432687769480/Points?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
