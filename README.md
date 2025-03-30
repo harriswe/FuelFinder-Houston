@@ -31,6 +31,6 @@ When your car’s fuel drops below 10%, you need a quick way to find nearby gas 
 Inspired by my grandfather’s 40 years as a Ford testing engineer and my father’s work at Bosch, this project reflects my passion for automotive systems and data-driven solutions. 
 
 ## Contact
-- Portfolio: [Wes Harrison](http://www.wesharrison.info)
-- GitHub: [My GitHub Profile](https://github.com/harriswe)
+- Portfolio: [Portfolio Website](http://www.wesharrison.info)
+- GitHub: [GitHub Profile](https://github.com/harriswe)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wmharrison42/)
