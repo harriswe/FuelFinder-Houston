@@ -22,7 +22,6 @@ When your car’s fuel drops below 10%, you need a quick way to find nearby gas 
 
 ## How to Run
 1. Clone the repo: `git clone https://github.com/harriswe/FuelFinder-Houston`
-2. Install dependencies: `pip install -r requirements.txt`
 3. Open the notebook in Jupyter: `FuelFinder - Houston.ipynb` (may require debug based on version).
 4. Run all cells to generate the data and CSVs.
 5. View the Tableau above.
