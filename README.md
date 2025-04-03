@@ -10,7 +10,6 @@ When your car’s fuel drops below 10%, you need a quick way to find nearby gas 
 2. **Clustering:** Applied K-means (5 clusters) to group stations spatially using Python.
 3. **Spatial Analysis:** Calculated distances from the car to stations using Haversine (R=3959 miles).
 4. **Recommendations:** Filtered stations within 10 miles of the nearest cluster, sorted by price.
-5. **Visualization:** Created an interactive Tableau dashboard with a map (stations, car, centroids, hub-and-spoke paths) and a recommendations table with hover effects.
 
 ## Technologies Used
 - **Python:** Pandas, Scikit-learn (K-means)
